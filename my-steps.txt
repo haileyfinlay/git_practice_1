@@ -103,6 +103,9 @@ git commit -m "First commit for git practice"
 touch menu.txt
 ls
 git status
+git add .
+git commit -m "creating a menu"
+git push
 
 
 ### Step 7
